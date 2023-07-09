@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 62e8041a75180804fbbcbdb3415aec04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3218751479973195264
+    second: Black_Player_Ungroup_0
+  - first:
+      213: -4737918699345410433
+    second: Black_Player_Ungroup_1
+  - first:
+      213: -1070415009558096307
+    second: Black_Player_Ungroup_2
+  - first:
+      213: -1016813275538223995
+    second: Black_Player_Ungroup_3
+  - first:
+      213: 7023742984146788065
+    second: Black_Player_Ungroup_4
+  - first:
+      213: -4578971736955568996
+    second: Black_Player_Ungroup_5
+  - first:
+      213: -2818129688435525116
+    second: Black_Player_Ungroup_6
+  - first:
+      213: 2839443834686157158
+    second: Black_Player_Ungroup_7
+  - first:
+      213: 1202798445605175189
+    second: Black_Player_Ungroup_8
+  - first:
+      213: 5456587229359654263
+    second: Black_Player_Ungroup_9
+  - first:
+      213: -8026112914031764579
+    second: Black_Player_Ungroup_10
+  - first:
+      213: 5931288230602159797
+    second: Black_Player_Ungroup_11
+  - first:
+      213: 5761175931438348006
+    second: Black_Player_Ungroup_12
+  - first:
+      213: -2970083839464887318
+    second: Black_Player_Ungroup_13
+  - first:
+      213: -4373020007668962140
+    second: Black_Player_Ungroup_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1433
+        width: 816
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025fe72592b453d0800000000000000
+      internalID: -3218751479973195264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_1
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1867
+        width: 394
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7606d6ab088f3eb0800000000000000
+      internalID: -4737918699345410433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_2
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1409
+        width: 695
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d461b09583f1521f0800000000000000
+      internalID: -1070415009558096307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_3
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1506
+        width: 637
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c84a496bd83e1f0800000000000000
+      internalID: -1016813275538223995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747
+        width: 917
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee16bbd709597160800000000000000
+      internalID: 7023742984146788065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_5
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1100
+        width: 474
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cb53637793470c0800000000000000
+      internalID: -4578971736955568996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_6
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1190
+        width: 233
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a71ddbafdf3e8d0800000000000000
+      internalID: -2818129688435525116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_7
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 746
+        width: 733
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6613426af1bb76720800000000000000
+      internalID: 2839443834686157158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_8
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 517
+        width: 525
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f30b640d231b010800000000000000
+      internalID: 1202798445605175189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_9
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 784
+        width: 270
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7754ae3cc21b9bb40800000000000000
+      internalID: 5456587229359654263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 323
+        width: 576
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b16ff24d48d9090800000000000000
+      internalID: -8026112914031764579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_11
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 0
+        width: 171
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63f7d683b205250800000000000000
+      internalID: 5931288230602159797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_12
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 0
+        width: 151
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6b9e15cfec3ff40800000000000000
+      internalID: 5761175931438348006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_13
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 160
+        width: 493
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb2193fb7428c6d0800000000000000
+      internalID: -2970083839464887318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Player_Ungroup_14
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 330
+        width: 270
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2737e879ef43c0800000000000000
+      internalID: -4373020007668962140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Menu.unity
+    guid: 44a99ef5eb0fc044fa02434f3d44b3e0
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Fase1.unity
+    guid: 149ed686da746db4592cf793b07c3812
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Fase2.unity
+    guid: 606e33429383156449161bb5b09edb5d
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Fase3.unity
+    guid: 02aeaac908bb9f042bf449261db80953
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Fase4.unity
+    guid: 7773b67ab3c37e44bbea9c7a0689dde0
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Fase5.unity
+    guid: 866ea99e609ebc942b683e120fb42545
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/fase6.unity
+    guid: d40e132553123484db61d7adbe4064ce
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/fase7.unity
+    guid: 1a6eb962297d5924b9ccc3b0d6ba4424
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/fase8.unity
+    guid: f107612002e3b2b408558ace3df0820e
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Cutscene.unity
+    guid: f737983233bacd445ad38f3a1b5248b4
+  m_configObjects: {}

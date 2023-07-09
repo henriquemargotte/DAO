@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 3a97e6ffbf1490b488cf30566564483b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7607724160924325537
+    second: plataformabranca (1)_0
+  - first:
+      213: -5724889028232286066
+    second: plataformabranca (1)_1
+  - first:
+      213: 7234242210946632150
+    second: plataformabranca (1)_2
+  - first:
+      213: -8393629887128432992
+    second: plataformabranca (1)_3
+  - first:
+      213: 3859159113802961766
+    second: plataformabranca (1)_4
+  - first:
+      213: -7472515365332551031
+    second: plataformabranca (1)_5
+  - first:
+      213: 4112022724353612342
+    second: plataformabranca (1)_6
+  - first:
+      213: 4190235238947485688
+    second: plataformabranca (1)_7
+  - first:
+      213: 4678488246892060410
+    second: plataformabranca (1)_8
+  - first:
+      213: 5116854869801402010
+    second: plataformabranca (1)_9
+  - first:
+      213: 7861223808693593448
+    second: plataformabranca (1)_10
+  - first:
+      213: -4552697136666212700
+    second: plataformabranca (1)_11
+  - first:
+      213: -5186853079570740269
+    second: plataformabranca (1)_12
+  - first:
+      213: -7006538446674676942
+    second: plataformabranca (1)_13
+  - first:
+      213: -8281095784088194681
+    second: plataformabranca (1)_14
+  - first:
+      213: -3695862392838385650
+    second: plataformabranca (1)_15
+  - first:
+      213: -4682532857474137272
+    second: plataformabranca (1)_16
+  - first:
+      213: -5010605401745836163
+    second: plataformabranca (1)_17
+  - first:
+      213: -216304395755517282
+    second: plataformabranca (1)_18
+  - first:
+      213: 4897265592845508591
+    second: plataformabranca (1)_19
+  - first:
+      213: 8164300128808630025
+    second: plataformabranca (1)_20
+  - first:
+      213: 561198826078691053
+    second: plataformabranca (1)_21
+  - first:
+      213: -8576881469443567502
+    second: plataformabranca (1)_22
+  - first:
+      213: -4329967141100063433
+    second: plataformabranca (1)_23
+  - first:
+      213: -876509966509664633
+    second: plataformabranca (1)_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plataformabranca (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 500
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e2fede2feb6690800000000000000
+      internalID: -7607724160924325537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformabranca (1)_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 170
+        width: 500
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80fea5b2cb1d80b0800000000000000
+      internalID: -5724889028232286066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
